@@ -25,7 +25,7 @@ const post = [
         time: '20.12.2022 14:23:32',
         title: 'По своей сути рыбатекст является альтернативой традиционному lorem ipsum',
         picture: '',        author: 'fuad',
-        like: 0,
+        like: 2,
         comment: [],
         personsLiked: [1]
     },    {
